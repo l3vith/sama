@@ -76,7 +76,7 @@ struct heapchunk *heap_alloc(struct heapchunk *heap, size_t size) {
   }
   return NULL;
 }
-
+/*
 int main() {
   struct heapchunk *heap = heap_init();
 
@@ -107,3 +107,4 @@ int main() {
 
   return EXIT_SUCCESS;
 }
+*/
