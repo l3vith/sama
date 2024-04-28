@@ -7,3 +7,4 @@ Shitty Ass Memory Allocator
 - [] Fix Shit code
 - [] prev transversing ???
 - [] Add Garbage Collector maybe ???
+- [] Add func to free memory
