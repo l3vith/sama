@@ -1,10 +1,4 @@
 # sama
 Shitty Ass Memory Allocator
 
-
-### TO-DO ✓
-- [] Add Defragmentation
-- [] Fix Shit code
-- [] prev transversing ???
-- [] Add Garbage Collector maybe ???
-- [] Add func to free memory
+rewrite when im better.
