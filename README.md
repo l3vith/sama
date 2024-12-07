@@ -1,4 +1,4 @@
 # sama
-Shitty Ass Memory Allocator
+s a Memory Allocator
 
 rewrite when im better.
